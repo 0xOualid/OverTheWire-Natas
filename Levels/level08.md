@@ -28,20 +28,10 @@ if(array_key_exists("submit", $_POST)) {
 ?>
 ```
 
-We have the secret word but it's encoded. It looks like a hex encoded.
+We have the secret word but it's encoded with `bin2hex(strrev(base64_encode($secret)`. So let's reveres the function to decode it.
 
 ```shell
-echo -n "3d3d516343746d4d6d6c315669563362" | xxd -r -p
-```
-
-```text
-==QcCtmMml1ViV3b 
-```
-
-The output looks like `Base64` but reversed, because base64 padding (=) always appear on the right-hand side.
-
-```shell
-echo "==QcCtmMml1ViV3b" | rev | base64 -d 
+echo -n "3d3d516343746d4d6d6c315669563362" | xxd -r -p | rev | base64 -d 
 ```
 
 ```text
