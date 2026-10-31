@@ -6,11 +6,11 @@
 
 ## Solution
 
-Entering the URL we found input where we have to enter a secret word. And also there is a link to the source code: http://natas8.natas.labs.overthewire.org/index-source.html
+Entering the URL, we found input where we have to enter a secret word. And also there is a link to the source code: http://natas8.natas.labs.overthewire.org/index-source.html
 
 The important part is:
 
-```js
+```php
 <?
 $encodedSecret = "3d3d516343746d4d6d6c315669563362";
 
@@ -38,7 +38,7 @@ echo -n "3d3d516343746d4d6d6c315669563362" | xxd -r -p | rev | base64 -d
 oubWYf2kBq
 ```
 
-And that's the secret word.
+And that is the secret word.
 
 ```text
 Access granted. The password for natas9 is UdxmI27dTaXmnd1rxKQTfws6jihTdcQ9

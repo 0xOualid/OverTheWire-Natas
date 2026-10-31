@@ -6,7 +6,7 @@
 
 ## Solution
 
-Entering the URL we found a normal page, but if we click into `home` we see new parameter added `page=home`.
+Entering the URL, we found a normal page, but if we click into `home` we see new parameter added `page=home`.
 
 When attempting to change the parameter's value to something else, such as `/etc/passwd`, the contents of the file are displayed on the page. And that's a `Path traversal` vulnerability.
 

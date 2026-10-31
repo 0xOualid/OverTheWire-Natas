@@ -6,9 +6,9 @@
 
 ## Solution
 
-Entering the URL we found a search. Viewing the source code behind it we found:
+Entering the URL, we found a search. So let's view the source code behind it:
 
-```js
+```php
 <pre>
 <?
 $key = "";

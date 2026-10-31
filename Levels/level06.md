@@ -6,11 +6,11 @@
 
 ## Solution
 
-Entering the URL we found input where we have to enter a secret word. And also there is a link to the source code: http://natas6.natas.labs.overthewire.org/index-source.html
+Entering the URL, we found input where we have to enter a secret word. And also there is a link to the source code: http://natas6.natas.labs.overthewire.org/index-source.html
 
 The interesting part is:
 
-```js
+```php
 <?
 include "includes/secret.inc";
 
@@ -24,9 +24,9 @@ include "includes/secret.inc";
 ?>
 ```
 
-Let's see the file that the server include http://natas6.natas.labs.overthewire.org/includes/secret.inc.
+Let's see the file that the server include http://natas6.natas.labs.overthewire.org/includes/secret.inc
 
-```text
+```php
 <?
 $secret = "FOEIUWGHFEEUHOFUOIU";
 ?>

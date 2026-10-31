@@ -6,7 +6,7 @@
 
 ## Solution
 
-Entering the URL we found: `Access disallowed. You are not logged in`.
+Entering the URL, we found: `Access disallowed. You are not logged in`.
 So it can be a parameter or a cookie that stopped us.
 
 Inspecting the page -> Application -> Cookie.
