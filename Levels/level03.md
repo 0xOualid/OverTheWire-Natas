@@ -1,12 +1,13 @@
 # Natas Level 3
 
 > Username: natas3
-> URL:      http://natas3.natas.labs.overthewire.org
+> Password: K30JrSRHzjxq3paUQuwozY4MNvmNFyhI
+> URL: http://natas3.natas.labs.overthewire.org
 
 ## Solution
 
 ```shell
-curl -u natas3:3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH http://natas3.natas.labs.overthewire.org/
+curl -u natas3:K30JrSRHzjxq3paUQuwozY4MNvmNFyhI http://natas3.natas.labs.overthewire.org/
 ```
 
 ```html
@@ -19,7 +20,7 @@ curl -u natas3:3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH http://natas3.natas.labs.overthe
 <script src="http://natas.labs.overthewire.org/js/jquery-1.9.1.js"></script>
 <script src="http://natas.labs.overthewire.org/js/jquery-ui.js"></script>
 <script src=http://natas.labs.overthewire.org/js/wechall-data.js></script><script src="http://natas.labs.overthewire.org/js/wechall.js"></script>
-<script>var wechallinfo = { "level": "natas3", "pass": "3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH" };</script></head>
+<script>var wechallinfo = { "level": "natas3", "pass": "K30JrSRHzjxq3paUQuwozY4MNvmNFyhI" };</script></head>
 <body>
 <h1>natas3</h1>
 <div id="content">
@@ -32,7 +33,7 @@ There is nothing on this page
 If `not even Google will find it this time` let's check `robots.txt`.
 
 ```shell
-curl -u natas3:3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH http://natas3.natas.labs.overthewire.org/robots.txt
+curl -u natas3:K30JrSRHzjxq3paUQuwozY4MNvmNFyhI http://natas3.natas.labs.overthewire.org/robots.txt
 ```
 
 ```text
@@ -43,14 +44,14 @@ Disallow: /s3cr3t/
 Let's check this directory on the browser.
 
 ```shell
-curl -u natas3:3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH http://natas3.natas.labs.overthewire.org/s3cr3t/users.txt
+curl -u natas3:K30JrSRHzjxq3paUQuwozY4MNvmNFyhI http://natas3.natas.labs.overthewire.org/s3cr3t/users.txt
 ```
 
 ```text
-natas4:QryZXc2e0zahULdHrtHxzyYkj59kUxLQ
+natas4:JDrPnuZAKyl6MkiqQGFIddrqpvgOASth
 ```
 
 ```text
-QryZXc2e0zahULdHrtHxzyYkj59kUxLQ
+JDrPnuZAKyl6MkiqQGFIddrqpvgOASth
 ```
 

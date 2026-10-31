@@ -1,12 +1,13 @@
 # Natas Level 2
 
 > Username: natas2
-> URL:      http://natas2.natas.labs.overthewire.org
+> Password: vsDOxoXyq3wckCP1ZmTZ71ngIA606odB
+> URL: http://natas2.natas.labs.overthewire.org
 
 ## Solution
 
 ```shell
-curl -u natas2:TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI http://natas2.natas.labs.overthewire.org/
+curl -u natas2:vsDOxoXyq3wckCP1ZmTZ71ngIA606odB http://natas2.natas.labs.overthewire.org/
 ```
 
 ```html
@@ -19,7 +20,7 @@ curl -u natas2:TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI http://natas2.natas.labs.overthe
 <script src="http://natas.labs.overthewire.org/js/jquery-1.9.1.js"></script>
 <script src="http://natas.labs.overthewire.org/js/jquery-ui.js"></script>
 <script src=http://natas.labs.overthewire.org/js/wechall-data.js></script><script src="http://natas.labs.overthewire.org/js/wechall.js"></script>
-<script>var wechallinfo = { "level": "natas2", "pass": "TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI" };</script></head>
+<script>var wechallinfo = { "level": "natas2", "pass": "vsDOxoXyq3wckCP1ZmTZ71ngIA606odB" };</script></head>
 <body>
 <h1>natas2</h1>
 <div id="content">
@@ -33,7 +34,7 @@ We see that there is a directory named `/files`. So let's check it in the browse
 We found that there is a file named `/users.txt` on it so.
 
 ```shell
-curl -u natas2:TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI http://natas2.natas.labs.overthewire.org/files/users.txt
+curl -u natas2:vsDOxoXyq3wckCP1ZmTZ71ngIA606odB http://natas2.natas.labs.overthewire.org/files/users.txt
 ```
 
 ```text
@@ -41,12 +42,12 @@ curl -u natas2:TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI http://natas2.natas.labs.overthe
 alice:BYNdCesZqW
 bob:jw2ueICLvT
 charlie:G5vCxkVV3m
-natas3:3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH
+natas3:K30JrSRHzjxq3paUQuwozY4MNvmNFyhI
 eve:zo4mJWyNj2
 mallory:9urtcpzBmH
 ```
 
 ```text
-3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH
+K30JrSRHzjxq3paUQuwozY4MNvmNFyhI
 ```
 
