@@ -6,7 +6,7 @@
 
 ## Solution
 
-Entering the URL, we found a search like in the previous level. Viewing the source code behind it we found:
+Entering the URL, we found a search bar like in the previous level. Viewing the source code behind it we found:
 
 ```php
 <pre>
