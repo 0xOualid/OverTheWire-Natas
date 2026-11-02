@@ -1,7 +1,9 @@
 # Natas Level 3
 
 > Username: natas3
+
 > Password: K30JrSRHzjxq3paUQuwozY4MNvmNFyhI
+
 > URL: http://natas3.natas.labs.overthewire.org
 
 ## Solution

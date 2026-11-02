@@ -1,7 +1,9 @@
 # Natas Level 2
 
 > Username: natas2
+
 > Password: vsDOxoXyq3wckCP1ZmTZ71ngIA606odB
+
 > URL: http://natas2.natas.labs.overthewire.org
 
 ## Solution

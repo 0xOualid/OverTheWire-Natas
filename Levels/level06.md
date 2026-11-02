@@ -1,7 +1,9 @@
 # Natas Level 6
 
 > Username: natas6
+
 > Password: 7mhjtShJAcld2NYbKHEadnhEwRn2P8VT
+
 > URL: http://natas6.natas.labs.overthewire.org
 
 ## Solution

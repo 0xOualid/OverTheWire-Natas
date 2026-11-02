@@ -1,7 +1,9 @@
 # Natas Level 9
 
 > Username: natas9
+
 > Password: UdxmI27dTaXmnd1rxKQTfws6jihTdcQ9
+
 > URL: http://natas9.natas.labs.overthewire.org
 
 ## Solution
