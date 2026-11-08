@@ -8,7 +8,7 @@
 
 ## Solution
 
-Entering the URL, we find a simple search page called `Whack Computer Joke Database`. We can search for jokes, and the results are displayed normally.
+Entering the URL, we found a simple search page called `Whack Computer Joke Database`. We can search for jokes, and the results are displayed normally.
 
 Unlike the previous levels, we don't have PHP source code to inspect. So let's start by observing the requests.
 
