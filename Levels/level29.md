@@ -8,7 +8,7 @@
 
 ## Solution
 
-Entering the URL, we found a leet-speak and a dropdown menu. And you can also notice the parameter `file=` if you select something from the dropdown menu. Also there is no source code. But we know it's written via `perl`.
+Entering the URL, we found a leet-speak and a dropdown menu. And you can also notice the parameter `file=` if you select something from the dropdown menu. Also there is no source code. But we know it's written via `Perl`.
 
 Probably the vulnerability is in the `file` parameter. 
 After trying a few techniques we notice by prepending a pipe `|` and appending a URL-encoded null byte `%00`, you establish command injection. You try it using:
