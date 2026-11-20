@@ -1,12 +1,14 @@
-# Natas Level 32
+## Natas Level 32
 
-> Username: natas32
+Username: natas32
 
-> Password: Rc3837d6qd3KoW0R2IgKssMXRX06btgY
+Password: Rc3837d6qd3KoW0R2IgKssMXRX06btgY
 
-> URL: http://natas32.natas.labs.overthewire.org
+URL: http://natas32.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found the same page as the previous level, but there is one additional thing.
 `This time you need to prove that you got code exec. There is a binary in the webroot that you need to execute.`

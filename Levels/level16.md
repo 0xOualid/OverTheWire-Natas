@@ -1,12 +1,14 @@
-# Natas Level 16
+## Natas Level 16
 
-> Username: natas16
+Username: natas16
 
-> Password: Xm6XEeRN3zsGjRDqBPmuqAVV65k7e3Gb
+Password: Xm6XEeRN3zsGjRDqBPmuqAVV65k7e3Gb
 
-> URL: http://natas16.natas.labs.overthewire.org
+URL: http://natas16.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found something similar to `level 10`, but now they said `For security reasons, we now filter even more on certain characters`.
 

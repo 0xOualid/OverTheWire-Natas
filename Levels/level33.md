@@ -1,12 +1,14 @@
-# Natas Level 33
+## Natas Level 33
 
-> Username: natas33
+Username: natas33
 
-> Password: kmIpGpPfpBF529wy1C8FGb9ZSO7fTlKL
+Password: kmIpGpPfpBF529wy1C8FGb9ZSO7fTlKL
 
-> URL: http://natas33.natas.labs.overthewire.org
+URL: http://natas33.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found that we can upload `firmware` in the form of PHP and have it executed, if we have the right file hash. So let's view the source code to see the vulnerabilities.
 

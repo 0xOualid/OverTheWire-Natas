@@ -1,12 +1,14 @@
-# Natas Level 13
+## Natas Level 13
 
-> Username: natas13
+Username: natas13
 
-> Password: g8ba0olAzaSJuyS4gnmbdVVigAICLG1k
+Password: g8ba0olAzaSJuyS4gnmbdVVigAICLG1k
 
-> URL: http://natas13.natas.labs.overthewire.org
+URL: http://natas13.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found something like the previous level, but now there is some checks: 
 `For security reasons, we now only accept image files!`

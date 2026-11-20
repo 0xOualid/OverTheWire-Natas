@@ -1,12 +1,14 @@
-# Natas Level 17
+## Natas Level 17
 
-> Username: natas17
+Username: natas17
 
-> Password: KLdAM3VZux8o6TbkbhuaG5KtYjI77tfx
+Password: KLdAM3VZux8o6TbkbhuaG5KtYjI77tfx
 
-> URL: http://natas17.natas.labs.overthewire.org
+URL: http://natas17.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found something like the `level 15`, So let's view the source code to see the difference.
 

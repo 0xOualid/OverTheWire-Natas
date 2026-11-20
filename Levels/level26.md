@@ -1,12 +1,14 @@
-# Natas Level 26
+## Natas Level 26
 
-> Username: natas26
+Username: natas26
 
-> Password: 3CApdpjqI4UYPxY8mHQWUdFPGH9BoUTT
+Password: 3CApdpjqI4UYPxY8mHQWUdFPGH9BoUTT
 
-> URL: http://natas26.natas.labs.overthewire.org
+URL: http://natas26.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found the web lets you submit two `X,Y` pairs to draw lines. So let's view the source code to see if there is vulnerabilities.
 

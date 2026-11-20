@@ -1,12 +1,14 @@
-# Natas Level 4
+## Natas Level 4
 
-> Username: natas4
+Username: natas4
 
-> Password: JDrPnuZAKyl6MkiqQGFIddrqpvgOASth
+Password: JDrPnuZAKyl6MkiqQGFIddrqpvgOASth
 
-> URL: http://natas4.natas.labs.overthewire.org
+URL: http://natas4.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 If we try to enter we found: 
 `Access disallowed. You are visiting from "" while authorized users should come only from "http://natas5.natas.labs.overthewire.org/"`.

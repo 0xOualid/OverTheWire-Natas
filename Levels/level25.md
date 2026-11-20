@@ -1,12 +1,14 @@
-# Natas Level 25
+## Natas Level 25
 
-> Username: natas25
+Username: natas25
 
-> Password: UJEF5OAHF1eW3lqkpdCDM7ow4syzh4oo
+Password: UJEF5OAHF1eW3lqkpdCDM7ow4syzh4oo
 
-> URL: http://natas25.natas.labs.overthewire.org
+URL: http://natas25.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found a Quote, and when we change the language the parameter `?lang=` added. Which mean it reads a file in specific location on the server. So let's view the source code to find out.
 

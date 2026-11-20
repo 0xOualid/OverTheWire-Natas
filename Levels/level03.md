@@ -1,12 +1,14 @@
-# Natas Level 3
+## Natas Level 3
 
-> Username: natas3
+Username: natas3
 
-> Password: K30JrSRHzjxq3paUQuwozY4MNvmNFyhI
+Password: K30JrSRHzjxq3paUQuwozY4MNvmNFyhI
 
-> URL: http://natas3.natas.labs.overthewire.org
+URL: http://natas3.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 ```shell
 curl -u natas3:K30JrSRHzjxq3paUQuwozY4MNvmNFyhI http://natas3.natas.labs.overthewire.org/

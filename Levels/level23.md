@@ -1,12 +1,14 @@
-# Natas Level 23
+## Natas Level 23
 
-> Username: natas23
+Username: natas23
 
-> Password: CH1OBxJy8uAxMM15Nx6VXSMwcJbBbnS5
+Password: CH1OBxJy8uAxMM15Nx6VXSMwcJbBbnS5
 
-> URL: http://natas23.natas.labs.overthewire.org
+URL: http://natas23.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found a password input. Let's view the source code to find the weakness.
 

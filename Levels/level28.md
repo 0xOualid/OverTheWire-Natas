@@ -1,12 +1,14 @@
-# Natas Level 28
+## Natas Level 28
 
-> Username: natas28
+Username: natas28
 
-> Password: Hy5wZLfVml7jnGmuvfbilRTUUkk29Dv3
+Password: Hy5wZLfVml7jnGmuvfbilRTUUkk29Dv3
 
-> URL: http://natas28.natas.labs.overthewire.org
+URL: http://natas28.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found a simple search page called `Whack Computer Joke Database`. We can search for jokes, and the results are displayed normally.
 

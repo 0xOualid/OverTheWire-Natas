@@ -1,12 +1,14 @@
-# Natas Level 29
+## Natas Level 29
 
-> Username: natas29
+Username: natas29
 
-> Password: hwgoYUiGWoSZAqphtCAZf7u1jS16KEah
+Password: hwgoYUiGWoSZAqphtCAZf7u1jS16KEah
 
-> URL: http://natas29.natas.labs.overthewire.org
+URL: http://natas29.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found a leet-speak and a dropdown menu. And you can also notice the parameter `file=` if you select something from the dropdown menu. Also there is no source code. But we know it's written via `Perl`.
 

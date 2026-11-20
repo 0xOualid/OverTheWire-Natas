@@ -1,12 +1,14 @@
-# Natas Level 2
+## Natas Level 2
 
-> Username: natas2
+Username: natas2
 
-> Password: vsDOxoXyq3wckCP1ZmTZ71ngIA606odB
+Password: vsDOxoXyq3wckCP1ZmTZ71ngIA606odB
 
-> URL: http://natas2.natas.labs.overthewire.org
+URL: http://natas2.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 ```shell
 curl -u natas2:vsDOxoXyq3wckCP1ZmTZ71ngIA606odB http://natas2.natas.labs.overthewire.org/

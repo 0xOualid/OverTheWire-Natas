@@ -1,12 +1,14 @@
-# Natas Level 8
+## Natas Level 8
 
-> Username: natas8
+Username: natas8
 
-> Password: ugXL95KQmUAJJj6bMezOlBNDyI9Imwkc
+Password: ugXL95KQmUAJJj6bMezOlBNDyI9Imwkc
 
-> URL: http://natas8.natas.labs.overthewire.org
+URL: http://natas8.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found input where we have to enter a secret word. And also there is a link to the source code: http://natas8.natas.labs.overthewire.org/index-source.html
 

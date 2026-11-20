@@ -1,12 +1,14 @@
-# Natas Level 6
+## Natas Level 6
 
-> Username: natas6
+Username: natas6
 
-> Password: 7mhjtShJAcld2NYbKHEadnhEwRn2P8VT
+Password: 7mhjtShJAcld2NYbKHEadnhEwRn2P8VT
 
-> URL: http://natas6.natas.labs.overthewire.org
+URL: http://natas6.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found input where we have to enter a secret word. And also there is a link to the source code: http://natas6.natas.labs.overthewire.org/index-source.html
 

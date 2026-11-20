@@ -1,12 +1,14 @@
-# Natas Level 5
+## Natas Level 5
 
-> Username: natas5
+Username: natas5
 
-> Password: e4z2Noy3oqwPJUWzJH0dseN67Cn1sy2M
+Password: e4z2Noy3oqwPJUWzJH0dseN67Cn1sy2M
 
-> URL: http://natas5.natas.labs.overthewire.org
+URL: http://natas5.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found: `Access disallowed. You are not logged in`.
 So it can be a parameter or a cookie that stopped us.

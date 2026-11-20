@@ -1,12 +1,14 @@
-# Natas Level 18
+## Natas Level 18
 
-> Username: natas18
+Username: natas18
 
-> Password: fDGn2A6Gsc0BUp3bZw0RNXpg0PZt40op
+Password: fDGn2A6Gsc0BUp3bZw0RNXpg0PZt40op
 
-> URL: http://natas18.natas.labs.overthewire.org
+URL: http://natas18.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found a login page: `Please login with your admin account to retrieve credentials for natas19.` 
 But if we try to login with any thing they give us: `You are logged in as a regular user. Login as an admin to retrieve credentials for natas19.`

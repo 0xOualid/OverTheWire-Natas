@@ -1,12 +1,14 @@
-# Natas Level 27
+## Natas Level 27
 
-> Username: natas27
+Username: natas27
 
-> Password: mj2mBEPWycXTTg5BXYT7UPXgXHx5hjvV
+Password: mj2mBEPWycXTTg5BXYT7UPXgXHx5hjvV
 
-> URL: http://natas27.natas.labs.overthewire.org
+URL: http://natas27.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found a login page. We can create new users if it doesn't exist, but if exists like the user `natas28` we must enter a password. So let's view the source code to understand how this work.
 

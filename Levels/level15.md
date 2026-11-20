@@ -1,12 +1,14 @@
-# Natas Level 15
+## Natas Level 15
 
-> Username: natas15
+Username: natas15
 
-> Password: GB6USCJYJjwLyYhZUNkE1NwDueiTow6g
+Password: GB6USCJYJjwLyYhZUNkE1NwDueiTow6g
 
-> URL: http://natas15.natas.labs.overthewire.org
+URL: http://natas15.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found a field where we could enter a username and check whether or not it exists. As always we can view the source code to see the vulnerability.
 

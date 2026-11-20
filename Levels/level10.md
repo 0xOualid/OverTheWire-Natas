@@ -1,12 +1,14 @@
-# Natas Level 10
+## Natas Level 10
 
-> Username: natas10
+Username: natas10
 
-> Password: EgjlkzB6E8LJyf2Obt4q7q4ewt5ZWSNv
+Password: EgjlkzB6E8LJyf2Obt4q7q4ewt5ZWSNv
 
-> URL: http://natas10.natas.labs.overthewire.org
+URL: http://natas10.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found a search bar like in the previous level. Viewing the source code behind it we found:
 

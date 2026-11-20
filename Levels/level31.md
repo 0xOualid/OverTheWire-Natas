@@ -1,12 +1,14 @@
-# Natas Level 31
+## Natas Level 31
 
-> Username: natas31
+Username: natas31
 
-> Password: aQzrirxwd2Wiaoq8HnSjcc8IUWlxdd1z
+Password: aQzrirxwd2Wiaoq8HnSjcc8IUWlxdd1z
 
-> URL: http://natas31.natas.labs.overthewire.org
+URL: http://natas31.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found `CSV2HTML`. Where we can upload `CSV` file then it change to `HTML`. So let's viewing the source code for more understanding.
 

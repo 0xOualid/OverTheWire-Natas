@@ -1,12 +1,14 @@
-# Natas Level 19
+## Natas Level 19
 
-> Username: natas19
+Username: natas19
 
-> Password: qvwtMqAcVSBlf7HE3sw9pljhqqPF9MMT
+Password: qvwtMqAcVSBlf7HE3sw9pljhqqPF9MMT
 
-> URL: http://natas19.natas.labs.overthewire.org
+URL: http://natas19.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found a login page and we don't have a source code to look at. 
 But we have: `This page uses mostly the same code as the previous level, but session IDs are no longer sequential...`

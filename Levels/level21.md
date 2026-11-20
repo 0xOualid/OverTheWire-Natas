@@ -1,12 +1,14 @@
-# Natas Level 21
+## Natas Level 21
 
-> Username: natas21
+Username: natas21
 
-> Password: 7meHZ1l2zPoK2v1qfTUxq4Ydfja4UlmU
+Password: 7meHZ1l2zPoK2v1qfTUxq4Ydfja4UlmU
 
-> URL: http://natas21.natas.labs.overthewire.org
+URL: http://natas21.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found a link to another page. So there in this level there is two pages:
 Natas21 (http://natas21.natas.labs.overthewire.org/): The main website, which checks whether you're an administrator.

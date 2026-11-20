@@ -1,12 +1,14 @@
-# Natas Level 12
+## Natas Level 12
 
-> Username: natas12
+Username: natas12
 
-> Password: EAGkE8uzFTxeoTT2mMst9Xy7PX6guEng
+Password: EAGkE8uzFTxeoTT2mMst9Xy7PX6guEng
 
-> URL: http://natas12.natas.labs.overthewire.org
+URL: http://natas12.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found that we can upload files to the server `Choose a JPEG to upload (max 1KB)`.
 

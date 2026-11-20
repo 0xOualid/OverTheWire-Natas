@@ -1,12 +1,14 @@
-# Natas Level 30
+## Natas Level 30
 
-> Username: natas30
+Username: natas30
 
-> Password: frO4U4zCfVJXq2zG5HSVNjA46nQGzoqF
+Password: frO4U4zCfVJXq2zG5HSVNjA46nQGzoqF
 
-> URL: http://natas30.natas.labs.overthewire.org
+URL: http://natas30.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found a login page. So let's view the source code to see if there is any vulnerability.
 

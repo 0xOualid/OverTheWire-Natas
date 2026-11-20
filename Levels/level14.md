@@ -1,12 +1,14 @@
-# Natas Level 14
+## Natas Level 14
 
-> Username: natas14
+Username: natas14
 
-> Password: A0xXu2x9FW8rb8OSQ4ei6n5VBbLUz8h8
+Password: A0xXu2x9FW8rb8OSQ4ei6n5VBbLUz8h8
 
-> URL: http://natas14.natas.labs.overthewire.org
+URL: http://natas14.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found a login fields but we don't have any credentials to enter. So let's view the source code to see if there is any vulnerability.
 

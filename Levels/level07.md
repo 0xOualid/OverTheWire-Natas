@@ -1,12 +1,14 @@
-# Natas Level 7
+## Natas Level 7
 
-> Username: natas7
+Username: natas7
 
-> Password: B1szg95UcTnrzwnF3i3TzYHlyYh8iBV0
+Password: B1szg95UcTnrzwnF3i3TzYHlyYh8iBV0
 
-> URL: http://natas7.natas.labs.overthewire.org
+URL: http://natas7.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found a normal page, but if we click into `home` we see new parameter added `page=home`.
 

@@ -1,12 +1,14 @@
-# Natas Level 22
+## Natas Level 22
 
-> Username: natas22
+Username: natas22
 
-> Password: 964laB0r7TuDqJj5b3HFtwsQoc0GhjBF
+Password: 964laB0r7TuDqJj5b3HFtwsQoc0GhjBF
 
-> URL: http://natas22.natas.labs.overthewire.org
+URL: http://natas22.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found nothing. So let's view the source code to see what's there.
 

@@ -1,12 +1,14 @@
-# Natas Level 20
+## Natas Level 20
 
-> Username: natas20
+Username: natas20
 
-> Password: slOKYGsjlJhaqKliGvrgWAzln0JyrWao
+Password: slOKYGsjlJhaqKliGvrgWAzln0JyrWao
 
-> URL: http://natas20.natas.labs.overthewire.org
+URL: http://natas20.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found that we are already login as a regular user `You are logged in as a regular user. Login as an admin to retrieve credentials for natas21.` And we can only change the name. So let's read the source code to find the vulnerability.
 

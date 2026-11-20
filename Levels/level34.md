@@ -1,12 +1,14 @@
-# Natas Level 34
+## Natas Level 34
 
-> Username: natas34
+Username: natas34
 
-> Password: cT3LVC2sd5RtaRHdAE2xr16nYGuArbbK
+Password: cT3LVC2sd5RtaRHdAE2xr16nYGuArbbK
 
-> URL: http://natas34.natas.labs.overthewire.org
+URL: http://natas34.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Congratulations! You have reached the end... for now.
 

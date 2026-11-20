@@ -1,12 +1,14 @@
-# Natas Level 11
+## Natas Level 11
 
-> Username: natas11
+Username: natas11
 
-> Password: VUMQDmuITOEHzhviLE5V0VG9cPMQkyxd
+Password: VUMQDmuITOEHzhviLE5V0VG9cPMQkyxd
 
-> URL: http://natas11.natas.labs.overthewire.org
+URL: http://natas11.natas.labs.overthewire.org
 
-## Solution
+---
+
+## Notes
 
 Entering the URL, we found `Cookies are protected with XOR encryption`. So let's viewing the source code to understand.
 
