@@ -6,6 +6,8 @@ Password: scfWG6qNEIdzqVyfRwEGXyNUfFZkZeQ7
 
 URL: http://natas1.natas.labs.overthewire.org
 
+---
+
 ## Notes
 
 ```shell
