@@ -1,12 +1,12 @@
-# Natas Level 1
+## Natas Level 1
 
-> Username: natas1
+Username: natas1
 
-> Password: scfWG6qNEIdzqVyfRwEGXyNUfFZkZeQ7
+Password: scfWG6qNEIdzqVyfRwEGXyNUfFZkZeQ7
 
-> URL: http://natas1.natas.labs.overthewire.org
+URL: http://natas1.natas.labs.overthewire.org
 
-## Solution
+## Notes
 
 ```shell
 curl -u natas1:scfWG6qNEIdzqVyfRwEGXyNUfFZkZeQ7 http://natas1.natas.labs.overthewire.org | grep -i "natas2"
