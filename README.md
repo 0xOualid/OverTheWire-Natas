@@ -1,6 +1,6 @@
-# OverTheWire: Natas Writeups
+# OverTheWire: Natas Personal Notes
 
-My personal notes and writeups for the **OverTheWire Natas** wargame.
+My personal notes for the **OverTheWire Natas** wargame.
 
 This repository serves as a learning journal where I document my progress, observations, techniques, and lessons learned while solving the Natas levels. The purpose is to reinforce my understanding of web security concepts and track my growth in cybersecurity.
 
@@ -56,4 +56,4 @@ This repository exists to:
 
 ## Disclaimer
 
-These writeups are intended for educational purposes and personal learning. If you are currently working through Natas, I recommend attempting each challenge independently before consulting the corresponding notes.
+These notes are intended for educational purposes and personal learning. If you are currently working through Natas, I recommend attempting each challenge independently before consulting the corresponding notes.
